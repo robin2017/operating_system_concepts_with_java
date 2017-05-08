@@ -1,0 +1,13 @@
+This file contains the source code from chapter 3 of the text. This includes:
+
+1) The three files indicating process creation.
+
+2) The files for the shared memory solution to the bounded buffer (in the "shared memory" directory.)
+
+3) The files for the message passing solution to the bounded buffer (in the "message passing" directory.)
+
+4) The files for socket programming (in the "socket" directory.)
+
+5) The files for the RMI programs (in the "rmi" directory.)
+
+6) The SimpleShell.java file for the end-of-chapter project (in the "project" directory.)
